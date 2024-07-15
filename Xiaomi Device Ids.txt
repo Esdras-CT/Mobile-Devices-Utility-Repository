@@ -151,6 +151,7 @@ Xiaomi Poco F3 GT;
  Xiaomi Redmi K40 Gaming;		M2012K10C
  Xiaomi Redmi Note 8 2021;		
 Xiaomi Poco M3 Pro 5G;		M2103K19PI
+Xiaomi Poco M3; M2103K19PG
 Xiaomi Mi 11X;		M2012K11AI
 Xiaomi Mi 11X Pro;		
 Xiaomi Poco M2 Reloaded;		M2004J19PI
