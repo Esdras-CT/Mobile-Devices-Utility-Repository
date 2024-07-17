@@ -167,7 +167,7 @@ Xiaomi POCO F3;		M2012K11AG
 Xiaomi Mi MIX FOLD;		
 Xiaomi Mi 10S;		M2102J2SC
  Xiaomi Redmi Note Redmi Note 10;		M2101K7AG, M2101K7AI
-Xiaomi  Redmi Note 10 5G;		
+Xiaomi  Redmi Note 10 5G;M2103K19G		
  Xiaomi Redmi K40;		
 Xiaomi Redmi K40 Pro;		
 Xiaomi Redmi K40 Pro+;		
